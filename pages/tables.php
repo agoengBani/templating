@@ -99,7 +99,7 @@
                 </g>
               </svg>
             </div>
-            <span class="nav-link-text ms-1">Insert Profile</span>
+            <span class="nav-link-text ms-1">Insert Data</span>
           </a>
         </li>
       </ul>
